@@ -15,7 +15,7 @@ const products = [
   },
   {
     id: 2,
-    name: "Self-Care Basket",
+    name: "Diwali Gift Basket",
     price: "$14.99",
     image: "/diwali-gift-basket.png",
     description:
